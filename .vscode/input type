@@ -1,0 +1,63 @@
+<!DOCTYPE html> 
+<head>
+<title> my from</title>
+<body>
+<h2>take data from users</h2>
+<input type="text">
+<input type="password">
+<input type="number">
+<input type="checkbox">
+<input type="date">
+<br>
+<textarea name="" id="" cols="30" rows="10"></textarea>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
